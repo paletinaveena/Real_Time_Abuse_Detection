@@ -1,0 +1,8 @@
+streamlit
+tweepy
+transformers
+flask
+sqlite3
+pandas
+schedule
+streamlit-autorefresh
